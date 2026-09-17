@@ -71,8 +71,8 @@ I enjoy turning complex problems into practical AI solutions — from multi-agen
 ## 🎮 My Contribution Arcade
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman.svg" alt="Pac-Man contribution graph" width="100%" />
+  <a href="https://github.com/tasnimeouerdiane">
+    <img src="https://raw.githubusercontent.com/tasnimeouerdiane/tasnimeouerdiane/output/pacman.svg" alt="Pac-Man contribution graph" width="100%" />
   </a>
 </p>
 
@@ -82,31 +82,7 @@ I enjoy turning complex problems into practical AI solutions — from multi-agen
 
 ---
 
-## 🚀 Selected AI Projects
 
-### 🧪 OVERDOSE — AI-Based Chemical Risk Assessment
-Multi-agent AI pipeline combining **Knowledge Graphs, RAG, LLMs, semantic search, and personalized risk analysis** using Neo4j, ChromaDB, MCP, and LLMs.
-
-### 🏥 Sahatek — Intelligent Medical Guidance
-Multi-agent healthcare system combining **LLMs, RAG, medical retrieval, triage, misinformation detection, mental-health support, and multimodal analysis**.
-
-### 👁️ Equipment Damage Auditing — MMDU
-AI system combining **Computer Vision, YOLO, Vision-Language Models, RAG, and LLMs** to automate equipment damage assessment.
-
----
-
-## 🎓 Education
-
-**Engineering Degree in Artificial Intelligence** — ESPRIT, Tunisia  
-2024 – 2027
-
-**Bachelor's Degree in Information Systems and Decision Support** — Claude Bernard University Lyon 1, France  
-2023 – 2024
-
-**Bachelor's Degree in Business Computing — Business Intelligence** — ESPRIT School of Business, Tunisia  
-2021 – 2024
-
----
 
 ## 📫 Let's Connect
 

@@ -8,10 +8,6 @@
 
 <br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58"
-     width="220"
-     alt="AI molecules animation"/>
-
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
      width="220"
      alt="Robot animation"/>
@@ -46,40 +42,7 @@ I enjoy turning complex problems into practical AI solutions — from **multi-ag
 
 ---
 
-## 💼 Experience
 
-### 🤖 AI Development Intern — MMDU, India
-**July – August 2026**
-
-- Developed a multi-agent AI system combining Computer Vision and LLMs for automated equipment damage auditing.
-- Built damage detection and classification pipelines using YOLO, Vision-Language Models, and RAG-based NLP.
-- Deployed AI modules as REST APIs in Python for backend integration.
-
-**Stack:** Python • OpenCV • YOLO • Gemini • Qwen • RAG • ChromaDB • Hugging Face • REST APIs
-
----
-
-### 🧠 AI Intern — SOFTIC EPPM
-**July – August 2025**
-
-- Designed an AI candidate–job matching system using hybrid NLP techniques.
-- Built a matching pipeline combining TF-IDF, MiniLM embeddings, and skill-overlap re-ranking.
-- Integrated the solution into the company's existing HR application.
-
-**Stack:** Python • Pandas • Scikit-learn • SBERT/MiniLM • TF-IDF • SQL Server • NLP
-
----
-
-### ☁️ End-of-Study Intern — VERMEG
-**February – June 2024**
-
-- Migrated a legacy business application to a low-code/no-code platform.
-- Designed a decision-support Power BI dashboard.
-- Developed a cloud-hosted LLM chatbot for customer support automation.
-
-**Stack:** LLM • Power BI • Data Warehousing • Talend • Virtual Machines
-
----
 
 # ⚡ Tech Stack
 
@@ -155,44 +118,6 @@ I enjoy turning complex problems into practical AI solutions — from **multi-ag
 
 </p>
 
----
-
-# 🚀 Selected AI Projects
-
-### 🧪 OVERDOSE — AI-Based Chemical Risk Assessment
-
-Multi-agent AI pipeline combining **Knowledge Graphs, RAG, LLMs, semantic search, and personalized risk analysis**.
-
-Built with **Neo4j, ChromaDB, Sentence Transformers, MCP, FAISS, GPT-4o, and LLaMA**.
-
----
-
-### 🏥 Sahatek — Intelligent Medical Guidance
-
-Multi-agent healthcare system combining **LLMs, RAG, medical retrieval, triage, misinformation detection, mental-health support, and multimodal analysis**.
-
-Built with **Python, LLaMA, Groq, ChromaDB, Sentence Transformers, OpenCV, DeepFace, and Django**.
-
----
-
-### 👁️ Equipment Damage Auditing — MMDU
-
-AI system combining **Computer Vision, YOLO, Vision-Language Models, RAG, and LLMs** to automate equipment damage assessment.
-
-Built with **Python, OpenCV, YOLO, Gemini, Qwen, ChromaDB, Hugging Face, and REST APIs**.
-
----
-
-## 🎓 Education
-
-**Engineering Degree in Artificial Intelligence**  
-ESPRIT — Tunisia | **2024 – 2027**
-
-**Bachelor's Degree in Information Systems and Decision Support**  
-Claude Bernard University Lyon 1 — France | **2023 – 2024**
-
-**Bachelor's Degree in Business Computing — Business Intelligence**  
-ESPRIT School of Business — Tunisia | **2021 – 2024**
 
 ---
 
@@ -242,20 +167,6 @@ ESPRIT School of Business — Tunisia | **2021 – 2024**
 <img src="https://img.shields.io/badge/NVIDIA-Anomaly%20Detection-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NVIDIA-Predictive%20Maintenance-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-
-</p>
-
----
-
-## 🌍 Languages
-
-<p align="center">
-
-🇹🇳 <b>Arabic</b> — Native  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🇫🇷 <b>French</b> — C1  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🇬🇧 <b>English</b> — C1
 
 </p>
 

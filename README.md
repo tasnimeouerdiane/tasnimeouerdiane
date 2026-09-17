@@ -87,7 +87,7 @@ I enjoy turning complex problems into practical AI solutions — from multi-agen
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="www.linkedin.com/in/tasnime-ouerdiane-175863284L">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="mailto:ouerdianetasnim@gmail.com">Email</a>
 </p>

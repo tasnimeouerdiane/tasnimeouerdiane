@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7A5CFA&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Artificial+Intelligence+Engineer+%7C+Student;Building+Agentic+AI+%26+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Turning+ideas+into+smart+AI+solutions" alt="Typing animation" />
 </a>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
-     width="220"
-     alt="Robot animation"/>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/tasnime-ouerdiane-175863284/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
